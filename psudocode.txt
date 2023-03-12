@@ -1,0 +1,9 @@
+ check the length of the string .
+  if length = 10 
+  process given string ( match with all valid number patterns ) , if any one of the pattern matches return true , if not return false.
+  
+  else if length = 11
+  process given string ( match with all valid number patterns with 1 in the beginning ) , if any one of the pattern matches return true , if not return false.
+
+  else 
+  return false 
